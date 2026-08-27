@@ -1,96 +1,69 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:6D28D9,100:A78BFA&height=140&section=header&animation=fadeIn" width="100%" />
+<img src="https://c.termai.cc/i101/SjL.jpg" width="120" style="border-radius:50%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=560&lines=UI%2FUX+%26+Graphic+Design;WhatsApp+Bot+Developer;Vibe+Coding+Enjoyer;H2H+on+Repeat+%F0%9F%8E%A7" />
+# LUC4SARTS
 
-</div>
+**UI/UX Designer & Graphic Designer**
 
-<br>
-
-<div align="center">
-
-```
-●  ●  ●                                          luc4sarts@github: ~
-
-$ ./wordmark.sh --name
-
-██          ██      ██    ████████        ████    ████████    ██████    ████████    ██████████    ████████
-██          ██      ██  ██              ██  ██  ██          ██      ██  ██      ██      ██      ██        
-██          ██      ██  ██            ██    ██    ██████    ██      ██  ████████        ██        ██████  
-██          ██      ██  ██          ██████████          ██  ██████████  ██  ██          ██              ██
-██          ██      ██  ██                  ██          ██  ██      ██  ██    ██        ██              ██
-██████████    ██████      ████████          ██  ████████    ██      ██  ██      ██      ██      ████████  
-
-$ ▌
-```
-
-<sub>ui/ux · graphic design · whatsapp bots · vibe coding ✦</sub>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=16&pause=1200&color=A78BFA&center=true&vCenter=true&width=460&lines=Crafting+clean+%26+intuitive+interfaces;Turning+ideas+into+visual+design;Detail-obsessed%2C+pixel-perfect" />
 
 </div>
 
 <br>
 
+## About Me
+
+Fokus di dunia **UI/UX & Graphic Design** — bikin tampilan yang bukan cuma cantik, tapi juga enak dipakai. Detail warna, spasi, sama alur interaksi itu hal yang selalu aku perhatiin sampai matang.
+
+Selain desain, aku juga ngoding buat ngewujudin desain jadi produk nyata — dari mockup ke interface yang beneran jalan.
+
+<br>
+
+## 🎨 Tools & Software
+
 <div align="center">
-
-```
-●  ●  ●                                    luc4sarts@github: ~$ ls skills/
-
-$ ls skills/
-
-[ UI/UX ]  [ Graphic Design ]  [ JavaScript ]  [ Node.js ]  [ Baileys ]
-
-$ ls interests/
-
-[ WhatsApp Bots ]  [ Vibe Coding ]  [ H2H 🎧 ]
-
-$ ▌
-```
-
+<img src="https://cdn.simpleicons.org/figma" width="40" height="40" title="Figma" />
+<img src="https://cdn.simpleicons.org/adobephotoshop" width="40" height="40" title="Photoshop" />
+<img src="https://cdn.simpleicons.org/adobeillustrator" width="40" height="40" title="Illustrator" />
+<img src="https://cdn.simpleicons.org/adobeaftereffects" width="40" height="40" title="After Effects" />
+<img src="https://cdn.simpleicons.org/adobepremierepro" width="40" height="40" title="Premiere Pro" />
+<img src="https://cdn.simpleicons.org/canva" width="40" height="40" title="Canva" />
+<img src="https://cdn.simpleicons.org/affinitydesigner" width="40" height="40" title="Affinity Designer" />
 </div>
 
 <br>
 
-## ▸ about
-
-- 🎨 **Design** — UI/UX & graphic design, mainin layout dan warna sampe pas
-- 🤖 **Build** — bikin bot WhatsApp modular, rapi, gak numpuk di satu file
-- ⚡ **Vibe** — ngoding sambil dengerin musik, mood-driven
-- 🎧 **Always on** — H2H
-
-<br>
-
-## ▸ stack
+## 💻 Languages
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,nodejs,html,css,figma,git,github,vscode&theme=dark" />
+<img src="https://cdn.simpleicons.org/javascript" width="36" height="36" title="JavaScript" />
+<img src="https://cdn.simpleicons.org/html5" width="36" height="36" title="HTML5" />
+<img src="https://cdn.simpleicons.org/css3" width="36" height="36" title="CSS3" />
+<img src="https://cdn.simpleicons.org/nodedotjs" width="36" height="36" title="Node.js" />
 </div>
 
 <br>
 
-## ▸ stats
+## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=luc4sarts&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=luc4sarts&theme=midnight-purple&hide_border=true&background=0d1117" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=luc4sarts&show_icons=true&theme=radical&hide_border=true" width="48%" />
 </div>
 
 <br>
 
-## ▸ connect
+## 📬 Connect
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=A78BFA" /></a>
-<a href="https://wa.me/6280000000000"><img src="https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=25D366" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=EC4899" /></a>
+<a href="mailto:luc4sartsofcl@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://wa.me/6280000000000"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 </div>
 
 <div align="center">
 <sub>thanks for stopping by ✦</sub>
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,45:6D28D9,100:0d1117&height=100&section=footer" width="100%" />
 </div>
